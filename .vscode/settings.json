@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "DESKTOP-KAUAN\\SQLSERVER",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MeuBancoDeDados",
+            "username": "DESKTOP-KAUAN\\kauan",
+            "database": "KAUAN_DEMANDAS"
+        }
+    ]
+}
